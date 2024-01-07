@@ -3,14 +3,3 @@ body, div{
     padding: 0;
 }
 /** teste de comp**/
-.Navbar{
-    width: 3rem;
-    height: 3rem;
-    border: 3px solid black;
-
-}
-.Logo_Website{
-    width: 5rem;
-    height: 5rem;
-    border: 10px solid black;
-}
