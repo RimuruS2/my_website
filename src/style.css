@@ -1,0 +1,12 @@
+body, div{
+    margin: 0;
+    padding: 0;
+    position: static;
+}
+/** teste de comp**/
+.Navbar{
+    width: 3rem;
+    height: 3rem;
+    border: solid, black;
+    
+}
